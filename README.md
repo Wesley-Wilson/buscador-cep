@@ -1,9 +1,8 @@
 # Welcome to Buscador de CEP
-<img src="./public/gif-cep.gif">
 <div align="center">
-<p>This project was created with <a href="https://github.com/facebook/create-react-app">React</a>
-</p>
-<span><a  href="https://buscador-cep-sigma-two.vercel.app/">Access project</a></span>
+<h1><a  href="https://buscador-cep-sigma-two.vercel.app/">Access project</a></h1>
+<img src="./public/gif-cep.gif">
+<p>This project was created with <a href="https://github.com/facebook/create-react-app">React</a></p>
 </div>
 <br>
 
